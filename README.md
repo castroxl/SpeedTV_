@@ -103,7 +103,7 @@ O acesso M3U completo de todos os canais também via Xtream Codes está disponí
 `http://seu-dominio.com/get.php?username=USUARIO&password=SENHA&type=m3u` 
 *E também pela nossa nova rota unificada proxy na URL do painel*: `http://seu-dominio.com/api/user/m3u?user=USUARIO&pass=SENHA`
 
-> O sistema Xtream Codes reescreve as rotas e injeta tokens únicos para garantir uso simultâneo regulado pelas conexões configuradas para o usuário no admin.
+> 📖 **Para a documentação completa de todas as rotas (Login, Gerenciamento de Usuários, VOD, EPG e Painel Admin), consulte o arquivo `api-routes.md`.**
 
 ---
 
